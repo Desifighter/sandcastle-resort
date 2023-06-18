@@ -1,0 +1,52 @@
+
+.bg-div{
+    background: linear-gradient(90deg, rgb(93, 224, 230) 0%, rgb(0, 74, 173) 100%);
+}
+.resort-name{
+    font-family: "YAFcflbZSXg 0", _fb_, auto;
+    font-size: 120px;
+    line-height: 150px;
+    letter-spacing: 0.0em;
+    text-transform: none;
+}
+.para-under-resort-name{
+    font-family: "YAFcfr0ZwUA 0", _fb_, auto;
+    
+}
+
+
+
+.h2-font{
+    font-family: 'Belleza', sans-serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.p-font{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    margin-bottom: 40px;
+}
+
+.small-icon{
+    height:20px;
+} 
+a:hover {
+    background-color: rgb(0, 74, 173);
+    
+    
+  }
+
+
+
+
+@media(max-width: 600px) {
+    .resort-name{
+        font-size: 70px;
+    }
+  }
+  @media (max-width: 1350px) and (min-width:990px) {
+    .resort-name{
+        font-size: 90px;
+    }
+  }  
+  
